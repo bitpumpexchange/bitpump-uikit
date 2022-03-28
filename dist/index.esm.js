@@ -2118,7 +2118,7 @@ var socials = [
     {
         label: "Medium",
         icon: "MediumIcon",
-        href: "https://medium.com/",
+        href: "https://bitpumpexchgange.medium.com/",
     },
     {
         label: "Gitbook",
