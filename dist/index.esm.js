@@ -2113,7 +2113,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/bitpumpexchange",
+        href: "https://twitter.com/BitPumpSwap",
     },
     {
         label: "Medium",
